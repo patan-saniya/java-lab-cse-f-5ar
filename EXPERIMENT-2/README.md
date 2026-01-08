@@ -84,4 +84,6 @@ student s = new student("saniya",18,7.81);
 s.display();
 }
 }
-
+```
+# ouput:
+![exp2c output](2c.PNG)
