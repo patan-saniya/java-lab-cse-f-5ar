@@ -69,5 +69,5 @@ System.out.println("the roots are imaiginary");
 ![exp 1b output](case1.PNG)
 # case2:(D=0):
 ![exp 1b output](case2.PNG)
-#case3:(D<0):
+# case3:(D<0):
 ![exp 1b outptu](case3.PNG)
