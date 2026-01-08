@@ -26,4 +26,4 @@ System.out.println("default values of double :"+obj.d);
 }
 ```
 # OUTPUT:
-![experiment 1 output](primitive.png)
+![experiment 1 output](primitive.PNG)
