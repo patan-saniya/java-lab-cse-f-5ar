@@ -28,7 +28,7 @@ System.out.println("perimeter:"+r.perimeter());
 # Output:
 ![exp2a output](2a.PNG)
 # Experiment-2b
-# Title:implimentation method of overloading
+# Title: To implimentation method of overloading
 # Source code:
 ``` java
 class sum {
@@ -57,7 +57,7 @@ System.out.println("sum of two double numbers:"+s.sum(10.5, 20.5));
 # Output:
 ![exp2b output](2b.PNG)
 # Experiment-2c
-# Title:implimentation of constructor
+# Title: To implimentation of constructor
 # Source code
 ``` java
 class student {
