@@ -1,6 +1,6 @@
-# experiment-2a
-# title:implementation of class mechanism in java
-# source code:
+# Experiment-2a
+# Title: To implementation of class mechanism in java
+# Source code:
 ``` java
 public class rectangle {
 double length;
@@ -25,11 +25,11 @@ System.out.println("perimeter:"+r.perimeter());
 }
 }
 ```
-# output:
+# Output:
 ![exp2a output](2a.PNG)
-# experiment-2b
-# title:implimentation method of overloading
-# source code:
+# Experiment-2b
+# Title:implimentation method of overloading
+# Source code:
 ``` java
 class sum {
 int sum(int a, int b) {
@@ -54,11 +54,11 @@ System.out.println("sum of two double numbers:"+s.sum(10.5, 20.5));
 }
 }
 ```
-# output:
+# Output:
 ![exp2b output](2b.PNG)
-# experiment-2c
-# title:implimentation of constructor
-# source code
+# Experiment-2c
+# Title:implimentation of constructor
+# Source code
 ``` java
 class student {
 String name;
@@ -85,5 +85,5 @@ s.display();
 }
 }
 ```
-# ouput:
+# Ouput:
 ![exp2c output](2c.PNG)
