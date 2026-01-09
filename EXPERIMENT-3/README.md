@@ -1,6 +1,6 @@
-# exp3a
-# title:To implement constructor overloading in java
-# source code:
+# Experiment-3a
+# Title:To implement constructor overloading in java
+# Source code:
 ``` java
 class student {
 int id;
@@ -42,5 +42,5 @@ s3.display();
 }
 }
 ```
-# output:
+# Output:
 ![exp3a output](3a.PNG)
