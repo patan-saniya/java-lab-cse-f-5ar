@@ -1,5 +1,5 @@
-## EXPERIMENT-1
-# 1a)Title:Displaying Default primitive datatype
+## Experiment-1a
+# Title: Displaying Default primitive datatype
 # Source Code:
 ``` java
 public class task1{
@@ -25,9 +25,10 @@ System.out.println("default values of double :"+obj.d);
 }
 }
 ```
-# OUTPUT:
+# Output:
 ![experiment 1 output](primitive.PNG)
-# 1b)Title:Calculate the roots of the quadratic equations
+# Experiment-1b
+# Title: Calculate the roots of the quadratic equations
 # Source Code:
 ``` java
 import java.util.Scanner;
@@ -64,10 +65,10 @@ System.out.println("the roots are imaiginary");
 }
 }
 ```
-# output:
-# case1:(D>0):
+# Output:
+# Case1:(D>0):
 ![exp 1b output](case1.PNG)
-# case2:(D=0):
+# Case2:(D=0):
 ![exp 1b output](case2.PNG)
-# case3:(D<0):
+# Case3:(D<0):
 ![exp 1b outptu](case3.PNG)
