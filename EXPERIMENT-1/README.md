@@ -27,7 +27,7 @@ System.out.println("default values of double :"+obj.d);
 ```
 # OUTPUT:
 ![experiment 1 output](primitive.PNG)
-# exp 1b)Title:Calculate the roots of the quadratic equations
+# 1b)Title:Calculate the roots of the quadratic equations
 # Source Code:
 ``` java
 import java.util.Scanner;
