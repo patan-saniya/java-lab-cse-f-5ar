@@ -1,0 +1,45 @@
+# ADDITIONAL-1
+# Title:To insert a substring in mainstring
+# Source code:
+# SubstringInsert.java
+``` java
+import java.util.Scanner;
+
+class SubstringInsert {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        String mainString;
+        String subString;
+        int position;
+
+        System.out.print("Enter the main string: ");
+        mainString = sc.nextLine();
+
+        System.out.print("Enter the substring: ");
+        subString = sc.nextLine();
+
+        System.out.print("Enter the position to insert: ");
+        position = sc.nextInt();
+
+        int length = mainString.length();
+        String resultString;
+
+        if (position >= 0 && position <= length) {
+            String firstPart = mainString.substring(0, position);
+            String secondPart = mainString.substring(position);
+
+            resultString = firstPart + subString + secondPart;
+
+            System.out.println("Resultant String = " + resultString);
+        } else {
+            System.out.println("Substring cannot be inserted.");
+            System.out.println("Condition: 0 <= position <= " + length);
+        }
+
+        sc.close();
+    }
+}
+```
+# Output:
+
