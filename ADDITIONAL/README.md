@@ -43,7 +43,6 @@ class SubstringInsert {
 ```
 # Output:
 ![output of add-1](add-1.PNG)
-
 # Additional-2
 # Title:To write a program to find the sum of the first 'n' fibonacci number.
 # Source code:
@@ -101,8 +100,7 @@ class Fibonacci {
 }
 ```
 # Output:
-
-
+![output of add-2](add-2.PNG)
 # Additional-3
 # Title:To write a java program to find the palindrome or not.
 #  Source code:
@@ -140,7 +138,7 @@ class Palindrome {
 }
 ```
 # Output:
-
+![output of add-3](add-3.PNG)
 # Additional-4
 # Title:TO write a java program to find the perfect or not.
 # Source code:
@@ -174,3 +172,4 @@ class Perfect {
 }
 ```
 # Output:
+![output of add-4](add-4.PNG)
