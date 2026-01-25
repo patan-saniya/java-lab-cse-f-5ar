@@ -42,6 +42,7 @@ class SubstringInsert {
 }
 ```
 # Output:
+![output of add-1](add-1.PNG)
 
 # Additional-2
 # Title:To write a program to find the sum of the first 'n' fibonacci number.
