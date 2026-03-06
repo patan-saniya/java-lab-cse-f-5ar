@@ -69,7 +69,6 @@ public class TestSort {
 
         ref = new BubbleSort();
         ref.sort(arr1);
-
         System.out.println("Array sorted using BubbleSort:");
         display(arr1);
 
@@ -91,7 +90,7 @@ public class TestSort {
 }
 ```
 # Output:
-
+![output](5a.PNG)
 # Exp-5b
 # Title : To implement runtime polymorphism
 # Source code:
@@ -148,6 +147,7 @@ public class TestVehicle {
 }
 ```
 # Ouput:
+![output](5b.PNG)
 # Exp-5c
 # Title : TO use stringbuffer to delete,remove character
 # Source code:
@@ -173,3 +173,5 @@ public class StringBufferDeleteDemo {
     }
 }
 ```
+# Output:
+![output](5c.PNG)
