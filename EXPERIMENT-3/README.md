@@ -209,4 +209,4 @@ import java.util.Scanner;
 }
 ```
 # Output:
-![exp3c output]()
+![exp3c output](3c.PNG)
