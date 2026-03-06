@@ -63,6 +63,7 @@ public class TestEmployee {
 }
 ```
 # Output:
+![output of 4a](4a.PNG)
 # Exp-4b
 # Title : To implement multilevel inheritance
 # Sorce code:
@@ -121,6 +122,7 @@ public class TestVehicle {
 }
 ```
 # Output:
+![output of 4b](4b.PNG)
 # Exp-4c
 # Title : To construct abstract class
 # Source code:
@@ -188,3 +190,4 @@ public class TestFigure {
 }
 ```
 # Output:
+![output of 4c](4c.PNG)
